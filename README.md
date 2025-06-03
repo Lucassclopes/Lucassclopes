@@ -1,8 +1,8 @@
 Olá! Eu sou o Lucas Lopes
 
 
-- 🔭 Atualmente trabalho como Técnico de Help Desk.
-- 🌱 Estou aprendendo sobre Java, SQL e estudo Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente trabalho como Técnico de Suporte em Sistemas - Pleno
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucassclopes/">
